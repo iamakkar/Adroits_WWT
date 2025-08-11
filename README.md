@@ -1,4 +1,4 @@
-# WWT6.iynnb
+# WWT.ipynb
 
 Welcome to the WWT Case Competition project submission entry! This repository contains resources and code for the WWT Case Competition.
 
@@ -49,4 +49,5 @@ This repository is a solution developed for the WWT Case Competition. It include
 ## Usage
 
 Open `WWT.ipynb` in Jupyter Notebook. Run all the cells sequentially. Appropriate markdowns are present at the sections and various steps in the particular section.
+
 The output get stores in `output_data.csv`.
